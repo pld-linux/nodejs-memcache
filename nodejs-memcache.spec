@@ -2,7 +2,7 @@
 Summary:	simple memcache client
 Name:		nodejs-%{pkg}
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/elbart/node-memcache
